@@ -10,7 +10,7 @@
     "version": [
       1,
       0,
-      0
+      1
     ],
     "min_engine_version": [
       1,
@@ -24,7 +24,7 @@
       "version": [
         1,
         0,
-        0
+        1
       ],
       "uuid": "c18554f0-9ada-4d29-b4fd-593fe115ce10",
       "type": "resources"
