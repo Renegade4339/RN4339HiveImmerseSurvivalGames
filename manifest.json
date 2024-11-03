@@ -1,0 +1,45 @@
+{
+      "metadata": {"authors": [
+        "Renegade4339"
+    ]},
+  "format_version": 2,
+  "header": {
+    "description": "§8For Hive's Survival Games.§r",
+    "name": "§6Immerse Survival Games§r",
+    "uuid": "42d73653-63e4-4f49-9677-0bcfa58518c1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "ISG",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "uuid": "c18554f0-9ada-4d29-b4fd-593fe115ce10",
+      "type": "resources"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "blood",
+      "name": "Content Management - Blood: §4ON§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "no_blood",
+      "name": "Content Management - Blood: OFF",
+      "memory_tier": 1
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    //plasma rifle - projectile impact
+    "entity.arrow.hit": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/ISG/arrow_impact1",
+        "sounds/ISG/arrow_impact2",
+        "sounds/ISG/arrow_impact3",
+        "sounds/ISG/arrow_impact4"
+      ]
+    },
+    "random.bowhit": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/ISG/arrow_impact1",
+        "sounds/ISG/arrow_impact2",
+        "sounds/ISG/arrow_impact3",
+        "sounds/ISG/arrow_impact4"
+      ]
+    },
+    //"don't be greedy!... still"
+    "item.trident.return": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/ISG/crate_teleport1",
+        "sounds/ISG/crate_teleport2",
+        "sounds/ISG/crate_teleport3",
+        "sounds/ISG/crate_teleport4",
+        "sounds/ISG/crate_teleport5"
+      ]
+    },
+    //armor
+    "item.armor.equip_leather": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "item.armor.equip_chain": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "item.armor.equip_iron": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "item.armor.equip_diamond": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "armor.equip_leather": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "armor.equip_chain": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "armor.equip_iron": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    "armor.equip_diamond": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/equip_armor1",
+        "sounds/ISG/equip_armor2"
+      ]
+    },
+    //ouch
+    "entity.player.hurt": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/player_hurt1",
+        "sounds/ISG/player_hurt2",
+        "sounds/ISG/player_hurt3",
+        "sounds/ISG/player_hurt4",
+        "sounds/ISG/player_hurt5"
+      ]
+    },
+    "game.player.hurt": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/player_hurt1",
+        "sounds/ISG/player_hurt2",
+        "sounds/ISG/player_hurt3",
+        "sounds/ISG/player_hurt4",
+        "sounds/ISG/player_hurt5"
+      ]
+    },
+    //ow. that mildly stings
+    "mob.zombie.unfect": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/player_die"
+      ]
+    },
+    //NOM NOM NOM. OM. NOM.
+    "entity.generic.eat": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/food_eat"
+      ]
+    },
+    "random.eat": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/food_eat"
+      ]
+    },
+    //SANDVICH AND ME ARE GOING TO BEAT YOUR ASS.
+    "entity.generic.burp": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/food_gulp"
+      ]
+    },
+    "random.burp": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/food_gulp"
+      ]
+    },
+    //no sounds on refilling.
+    "ui.loom.take_result": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/isg_nosound.wav"
+      ]
+    },
+    "block.loom.use": {
+      "category": "player",
+      "sounds": [
+        "sounds/ISG/isg_nosound.wav"
+      ]
+    },
+    //big cannon go boom
+    "random.screenshot": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/tribute_fallen1",
+        "sounds/ISG/tribute_fallen2",
+        "sounds/ISG/tribute_fallen3"
+      ]
+    },
+    "camera.take_picture": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/tribute_fallen1",
+        "sounds/ISG/tribute_fallen2",
+        "sounds/ISG/tribute_fallen3"
+      ]
+    },
+    //"OOOORAH!"
+    "entity.ravager.roar": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/victory_horn"
+      ]
+    },
+    "mob.ravager.roar": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/victory_horn"
+      ]
+    },
+    //"bruh get me outta this arena"
+    "event.raid.horn": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/victory_extraction"
+      ]
+    },
+    "raid.horn": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/victory_extraction"
+      ]
+    },
+    //nyoom
+  "entity.firework_rocket.launch": {
+    "category": "neutral",
+    "volume": 0.95,
+    "sounds": [
+      "sounds/ISG/player_launcher"
+    ]
+  },
+  "firework.launch": {
+    "category": "neutral",
+    "volume": 0.95,
+    "sounds": [
+      "sounds/ISG/player_launcher"
+    ]
+  },
+    //"LET THE GAMES BEGIN!"
+    "mob.enderdragon.growl": {
+      "category": "ui",
+      "sounds": [
+        "sounds/ISG/game_horn"
+      ]
+    },
+    //w a r
+  "entity.ghast.shoot": {
+    "category": "ui",
+    "volume": 1.0,
+    "sounds": [
+      "sounds/ISG/game_over"
+    ]
+  },
+  "mob.ghast.fireball": {
+    "category": "ui",
+    "volume": 1.0,
+    "sounds": [
+      "sounds/ISG/game_over"
+    ]
+  },
+  "isg.music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/ISG/music/dissociation",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/epicenterofacollapsinghell",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/hopelessdespair",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/imageofanunedingdecay",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/purgatory",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/rootofcondemnation",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/sanitydrownedintherain",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/sanitysedge",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/ISG/music/spacerumble",
+        "stream": true,
+        "volume": 0.35
+      }
+     ]
+  }
+ }
+}

@@ -1,0 +1,232 @@
+{
+  "game": {
+    "event_name" : "isg.music",
+    "min_delay": 120,
+    "max_delay": 420
+  },
+  "water": {
+    "event_name": "isg.music",
+    "min_delay": 180,
+    "max_delay": 540
+  },
+  "creative": {
+    "event_name" : "isg.music",
+    "min_delay": 120,
+    "max_delay": 420
+  },
+    "dripstone_caves": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "grove": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jagged_peaks": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "lush_caves": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "meadow": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "frozen_peaks": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "snowy_slopes": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "stony_peaks": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "deep_dark": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "swampland": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "swampland_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mangrove_swamp": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "bamboo_jungle": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "bamboo_jungle_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "birch_forest": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "birch_forest_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "roofed_forest": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "roofed_forest_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "forest": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "flower_forest": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mesa_plateau": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mega_taiga": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "redwood_taiga_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "redwood_taiga_hills_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "birch_forest_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mesa_plateau_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "cherry_grove": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "desert": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "desert_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "desert_hills_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "flower_forest": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mesa": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mesa_plateau": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "mesa_plateau_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle_hills_mutated": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "jungle_edge": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "bamboo_jungle": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    },
+    "bamboo_jungle_hills": {
+        "event_name": "isg.music",
+        "min_delay": 120,
+        "max_delay": 420
+    }
+}
