@@ -29,5 +29,6 @@ item.carrot.name=Fresh Carrot §8(+3 HGP)§r
 item.bread.name=Fresh Bread §8(+5 HGP)§r
 item.mushroom_stew.name=MRE Pack §8(+6 HGP)§r
 item.golden_apple.name=§dPerformance Serum§8 §8(+4HGP, +Regen 2 5s, +Abs 2m)§r
+item.sweet_berries.name=Fresh Berries §8(+2 HGP)§r
 item.fireball.name=Twigs and Lighter
 tile.web.name=Slow Field Kit
